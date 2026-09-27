@@ -1,0 +1,351 @@
+Year,Month,Type of Attacks,Subtype,State,City,Counts of Attack
+2023,April,owasps,Broken Authentication,Kerala,Thiruvananthapuram,3402180
+2023,April,owasps,Cross-Site Scripting (XSS),Ladakh,Leh,2753808
+2023,April,owasps,Broken Authentication,Odisha,Bhubaneswar,556125
+2023,April,organizational,Supply Chain Attack,Jammu and Kashmir,Srinagar,380452
+2023,April,organizational,BEC,Chhattisgarh,Raipur,3613989
+2023,April,owasps,Cross-Site Scripting (XSS),Dadra and Nagar Haveli and Daman and Diu,Daman,1455937
+2023,April,organizational,BEC,Meghalaya,Shillong,3756831
+2023,April,organizational,BEC,Telangana,Hyderabad,2365640
+2023,April,individual,Phishing,Jharkhand,Ranchi,118209
+2023,April,individual,Cyber Bullying,Nagaland,Kohima,1397015
+2023,April,owasps,Broken Authentication,Odisha,Bhubaneswar,1266505
+2023,August,tcp ip attacks,ARP Poisoning,Mizoram,Aizawl,1342811
+2023,August,tcp ip attacks,DNS Spoofing,Andhra Pradesh,Visakhapatnam,2254102
+2023,August,organizational,Insider Threat,Jammu and Kashmir,Srinagar,692077
+2023,August,owasps,Broken Authentication,Punjab,Ludhiana,11007745
+2023,August,tcp ip attacks,Man-in-the-Middle,Delhi,New Delhi,10383660
+2023,August,individual,Malware,Jammu and Kashmir,Srinagar,3372464
+2023,August,organizational,BEC,Madhya Pradesh,Indore,807472
+2023,August,organizational,BEC,Odisha,Bhubaneswar,5476627
+2023,August,individual,Malware,Lakshadweep,Kavaratti,3745134
+2023,December,owasps,Cross-Site Scripting (XSS),Punjab,Ludhiana,1737154
+2023,December,tcp ip attacks,SYN Flood,Telangana,Hyderabad,221506
+2023,December,organizational,Whaling,Goa,Panaji,1274215
+2023,December,individual,Malware,Chhattisgarh,Raipur,3322306
+2023,December,individual,Identity Theft,Jammu and Kashmir,Srinagar,8885681
+2023,December,tcp ip attacks,DNS Spoofing,Tamil Nadu,Chennai,1821726
+2023,December,organizational,Whaling,Jammu and Kashmir,Srinagar,2896248
+2023,December,tcp ip attacks,DNS Spoofing,Chhattisgarh,Raipur,562283
+2023,December,tcp ip attacks,DDoS,Chandigarh,Chandigarh,16043775
+2023,December,owasps,Cross-Site Scripting (XSS),Andhra Pradesh,Visakhapatnam,6255516
+2023,December,tcp ip attacks,DDoS,Chhattisgarh,Raipur,7360970
+2023,December,owasps,Cross-Site Scripting (XSS),Dadra and Nagar Haveli and Daman and Diu,Daman,3049796
+2023,February,individual,Online Fraud,Assam,Guwahati,4557737
+2023,February,organizational,Data Exfiltration,Arunachal Pradesh,Itanagar,12969172
+2023,February,owasps,Cross-Site Scripting (XSS),Nagaland,Kohima,6116460
+2023,February,owasps,SQL Injection,Rajasthan,Jaipur,129536
+2023,February,organizational,Data Exfiltration,Arunachal Pradesh,Itanagar,1171816
+2023,January,individual,Malware,Andhra Pradesh,Visakhapatnam,4874217
+2023,January,tcp ip attacks,DDoS,Mizoram,Aizawl,76993
+2023,January,organizational,Insider Threat,Jammu and Kashmir,Srinagar,2147331
+2023,January,owasps,SQL Injection,West Bengal,Kolkata,4021009
+2023,January,organizational,Supply Chain Attack,Rajasthan,Jaipur,756588
+2023,January,organizational,Data Exfiltration,Haryana,Gurgaon,1456743
+2023,January,organizational,Data Exfiltration,Ladakh,Leh,4542359
+2023,January,individual,Ransomware,Chandigarh,Chandigarh,243084
+2023,January,organizational,APT,West Bengal,Kolkata,8078075
+2023,January,tcp ip attacks,DNS Spoofing,Jharkhand,Ranchi,5294906
+2023,January,organizational,Supply Chain Attack,Punjab,Ludhiana,1061425
+2023,January,organizational,Whaling,Puducherry,Puducherry,5214788
+2023,July,organizational,APT,Goa,Panaji,627902
+2023,July,individual,Phishing,Delhi,New Delhi,6612853
+2023,July,tcp ip attacks,SYN Flood,Bihar,Patna,750009
+2023,July,individual,Malware,Himachal Pradesh,Shimla,176067
+2023,July,individual,Identity Theft,Puducherry,Puducherry,171322
+2023,July,individual,Ransomware,Uttar Pradesh,Lucknow,820075
+2023,July,owasps,SQL Injection,Chhattisgarh,Raipur,284770
+2023,July,organizational,BEC,Assam,Guwahati,1643164
+2023,July,tcp ip attacks,DDoS,Tripura,Agartala,8814766
+2023,July,owasps,Broken Authentication,West Bengal,Kolkata,296523
+2023,July,individual,Online Fraud,Meghalaya,Shillong,6111113
+2023,June,organizational,Supply Chain Attack,Delhi,New Delhi,7445003
+2023,June,organizational,Data Exfiltration,Assam,Guwahati,5523867
+2023,June,owasps,Broken Authentication,Andaman and Nicobar Islands,Port Blair,9437283
+2023,June,individual,Identity Theft,Sikkim,Gangtok,1633296
+2023,June,organizational,Data Exfiltration,Delhi,New Delhi,5998568
+2023,June,organizational,Whaling,Tripura,Agartala,4833192
+2023,June,tcp ip attacks,SYN Flood,Madhya Pradesh,Indore,1955549
+2023,March,individual,Identity Theft,Arunachal Pradesh,Itanagar,883553
+2023,March,organizational,APT,Punjab,Ludhiana,3503195
+2023,March,organizational,Insider Threat,Punjab,Ludhiana,1279000
+2023,March,tcp ip attacks,DNS Spoofing,Meghalaya,Shillong,3462336
+2023,March,individual,Phishing,Meghalaya,Shillong,1344788
+2023,March,tcp ip attacks,SYN Flood,Haryana,Gurgaon,2530297
+2023,March,tcp ip attacks,DDoS,Bihar,Patna,1108507
+2023,March,individual,Ransomware,Nagaland,Kohima,12929377
+2023,March,owasps,Broken Authentication,Tripura,Agartala,6531890
+2023,March,individual,Ransomware,Meghalaya,Shillong,286793
+2023,March,individual,Online Fraud,Sikkim,Gangtok,455866
+2023,March,individual,Online Fraud,Delhi,New Delhi,4841383
+2023,March,individual,Online Fraud,Jammu and Kashmir,Srinagar,471496
+2023,March,tcp ip attacks,DDoS,Kerala,Thiruvananthapuram,4623910
+2023,March,tcp ip attacks,DDoS,Lakshadweep,Kavaratti,5455920
+2023,March,organizational,BEC,Gujarat,Ahmedabad,2064869
+2023,May,organizational,APT,Punjab,Ludhiana,4267155
+2023,May,tcp ip attacks,DNS Spoofing,Goa,Panaji,1382763
+2023,May,tcp ip attacks,DNS Spoofing,Dadra and Nagar Haveli and Daman and Diu,Daman,2928885
+2023,May,tcp ip attacks,DDoS,Tamil Nadu,Chennai,20497
+2023,May,organizational,Whaling,Andhra Pradesh,Visakhapatnam,5460824
+2023,May,individual,Identity Theft,Karnataka,Bangalore,95310
+2023,May,individual,Online Fraud,Kerala,Thiruvananthapuram,2629836
+2023,May,tcp ip attacks,DNS Spoofing,Chhattisgarh,Raipur,650792
+2023,May,tcp ip attacks,Man-in-the-Middle,Maharashtra,Mumbai,3714649
+2023,May,tcp ip attacks,ARP Poisoning,Lakshadweep,Kavaratti,7594141
+2023,November,individual,Cyber Bullying,West Bengal,Kolkata,11142612
+2023,November,individual,Phishing,Meghalaya,Shillong,2093457
+2023,November,organizational,Data Exfiltration,Haryana,Gurgaon,248991
+2023,November,tcp ip attacks,ARP Poisoning,Sikkim,Gangtok,481786
+2023,November,owasps,SQL Injection,Arunachal Pradesh,Itanagar,8336825
+2023,November,owasps,Broken Authentication,Karnataka,Bangalore,6026277
+2023,October,owasps,Security Misconfiguration,Delhi,New Delhi,742856
+2023,October,tcp ip attacks,DNS Spoofing,Lakshadweep,Kavaratti,824504
+2023,October,individual,Cyber Bullying,Arunachal Pradesh,Itanagar,2672746
+2023,October,owasps,SQL Injection,Lakshadweep,Kavaratti,342984
+2023,October,tcp ip attacks,SYN Flood,Goa,Panaji,1220836
+2023,October,tcp ip attacks,DNS Spoofing,Rajasthan,Jaipur,1487418
+2023,October,organizational,BEC,Chhattisgarh,Raipur,1378845
+2023,October,individual,Ransomware,Haryana,Gurgaon,2520182
+2023,October,owasps,Cross-Site Scripting (XSS),Uttar Pradesh,Lucknow,2738080
+2023,September,individual,Malware,Madhya Pradesh,Indore,3379453
+2023,September,tcp ip attacks,Man-in-the-Middle,Jammu and Kashmir,Srinagar,627797
+2023,September,organizational,BEC,Jammu and Kashmir,Srinagar,1689008
+2023,September,owasps,Broken Authentication,Tripura,Agartala,5693001
+2023,September,individual,Online Fraud,Lakshadweep,Kavaratti,12477113
+2023,September,individual,Phishing,Telangana,Hyderabad,2717469
+2023,September,individual,Phishing,Rajasthan,Jaipur,422615
+2023,September,organizational,Supply Chain Attack,Odisha,Bhubaneswar,961724
+2023,September,organizational,Whaling,Rajasthan,Jaipur,9827869
+2024,April,organizational,Supply Chain Attack,Jharkhand,Ranchi,212728
+2024,April,organizational,BEC,Tripura,Agartala,4869867
+2024,April,tcp ip attacks,Man-in-the-Middle,Telangana,Hyderabad,1936689
+2024,April,tcp ip attacks,DNS Spoofing,West Bengal,Kolkata,8358968
+2024,April,tcp ip attacks,ARP Poisoning,Andhra Pradesh,Visakhapatnam,1459339
+2024,April,individual,Ransomware,Tripura,Agartala,1843032
+2024,April,tcp ip attacks,ARP Poisoning,Manipur,Imphal,4148786
+2024,April,owasps,SQL Injection,Andaman and Nicobar Islands,Port Blair,3104051
+2024,April,owasps,Cross-Site Scripting (XSS),Sikkim,Gangtok,1299835
+2024,April,individual,Ransomware,Kerala,Thiruvananthapuram,64117
+2024,April,owasps,Broken Authentication,Puducherry,Puducherry,3991984
+2024,April,organizational,Whaling,Chhattisgarh,Raipur,4429337
+2024,April,individual,Phishing,Tamil Nadu,Chennai,139237
+2024,April,owasps,Broken Authentication,Tripura,Agartala,13665061
+2024,April,owasps,Cross-Site Scripting (XSS),Punjab,Ludhiana,331847
+2024,April,organizational,Whaling,Andhra Pradesh,Visakhapatnam,289238
+2024,August,owasps,Cross-Site Scripting (XSS),Chhattisgarh,Raipur,1124993
+2024,August,organizational,Supply Chain Attack,Bihar,Patna,3359110
+2024,August,individual,Identity Theft,Lakshadweep,Kavaratti,1517357
+2024,August,owasps,Cross-Site Scripting (XSS),Sikkim,Gangtok,139054
+2024,August,tcp ip attacks,SYN Flood,Gujarat,Ahmedabad,2513679
+2024,August,tcp ip attacks,SYN Flood,Himachal Pradesh,Shimla,11894095
+2024,August,tcp ip attacks,ARP Poisoning,Uttar Pradesh,Lucknow,2855212
+2024,August,owasps,Broken Authentication,Lakshadweep,Kavaratti,779545
+2024,August,individual,Online Fraud,Manipur,Imphal,111033
+2024,August,individual,Phishing,Nagaland,Kohima,1150515
+2024,August,organizational,Insider Threat,Kerala,Thiruvananthapuram,8407279
+2024,August,tcp ip attacks,Man-in-the-Middle,West Bengal,Kolkata,4372413
+2024,August,owasps,SQL Injection,Odisha,Bhubaneswar,2672675
+2024,December,owasps,Cross-Site Scripting (XSS),Chhattisgarh,Raipur,2310528
+2024,December,owasps,Security Misconfiguration,Tamil Nadu,Chennai,303519
+2024,December,owasps,Cross-Site Scripting (XSS),Nagaland,Kohima,3288800
+2024,December,individual,Online Fraud,Tripura,Agartala,807370
+2024,December,owasps,SQL Injection,Odisha,Bhubaneswar,29343
+2024,December,owasps,Cross-Site Scripting (XSS),Chhattisgarh,Raipur,1454426
+2024,December,individual,Ransomware,Arunachal Pradesh,Itanagar,5302199
+2024,December,individual,Malware,Maharashtra,Mumbai,1495052
+2024,December,organizational,APT,Andaman and Nicobar Islands,Port Blair,194176
+2024,December,individual,Online Fraud,Gujarat,Ahmedabad,7391112
+2024,February,owasps,Broken Authentication,Nagaland,Kohima,181275
+2024,February,individual,Online Fraud,Odisha,Bhubaneswar,209225
+2024,February,owasps,SQL Injection,West Bengal,Kolkata,3602287
+2024,February,owasps,SQL Injection,Maharashtra,Mumbai,5682674
+2024,February,owasps,Broken Authentication,Uttar Pradesh,Lucknow,300005
+2024,February,individual,Phishing,Goa,Panaji,105865
+2024,February,individual,Ransomware,Jharkhand,Ranchi,7208200
+2024,February,individual,Phishing,Rajasthan,Jaipur,1436907
+2024,January,organizational,Supply Chain Attack,Uttar Pradesh,Lucknow,27399
+2024,January,individual,Cyber Bullying,Sikkim,Gangtok,5321504
+2024,January,individual,Identity Theft,Punjab,Ludhiana,2106375
+2024,January,owasps,Security Misconfiguration,Uttar Pradesh,Lucknow,5553087
+2024,January,owasps,Security Misconfiguration,Chhattisgarh,Raipur,500073
+2024,January,tcp ip attacks,SYN Flood,Chandigarh,Chandigarh,7178788
+2024,January,tcp ip attacks,DDoS,Uttarakhand,Dehradun,2280529
+2024,January,owasps,Security Misconfiguration,Andaman and Nicobar Islands,Port Blair,622928
+2024,January,owasps,Broken Authentication,Chandigarh,Chandigarh,1064003
+2024,July,individual,Online Fraud,Mizoram,Aizawl,203597
+2024,July,tcp ip attacks,SYN Flood,Meghalaya,Shillong,7059833
+2024,July,owasps,Broken Authentication,West Bengal,Kolkata,7857813
+2024,July,owasps,Security Misconfiguration,Haryana,Gurgaon,5802803
+2024,July,owasps,Security Misconfiguration,Odisha,Bhubaneswar,2236003
+2024,June,organizational,Insider Threat,Jammu and Kashmir,Srinagar,2939432
+2024,June,organizational,Insider Threat,Meghalaya,Shillong,10243082
+2024,June,owasps,SQL Injection,Rajasthan,Jaipur,1961286
+2024,June,tcp ip attacks,DDoS,Ladakh,Leh,7925360
+2024,June,owasps,Broken Authentication,Bihar,Patna,1799996
+2024,June,organizational,Data Exfiltration,Chandigarh,Chandigarh,1776722
+2024,June,tcp ip attacks,DNS Spoofing,Bihar,Patna,2369961
+2024,June,tcp ip attacks,DNS Spoofing,Karnataka,Bangalore,111605
+2024,June,tcp ip attacks,DNS Spoofing,Madhya Pradesh,Indore,4824011
+2024,June,individual,Phishing,Manipur,Imphal,4800097
+2024,June,tcp ip attacks,Man-in-the-Middle,Arunachal Pradesh,Itanagar,1945188
+2024,June,individual,Phishing,Telangana,Hyderabad,4546576
+2024,March,individual,Cyber Bullying,Kerala,Thiruvananthapuram,3439570
+2024,March,owasps,Cross-Site Scripting (XSS),Ladakh,Leh,2896741
+2024,March,tcp ip attacks,SYN Flood,Delhi,New Delhi,1132632
+2024,March,organizational,Supply Chain Attack,Manipur,Imphal,2100923
+2024,March,tcp ip attacks,DNS Spoofing,Nagaland,Kohima,607279
+2024,March,organizational,Whaling,Dadra and Nagar Haveli and Daman and Diu,Daman,183951
+2024,March,tcp ip attacks,SYN Flood,Arunachal Pradesh,Itanagar,2381848
+2024,March,organizational,Data Exfiltration,Andhra Pradesh,Visakhapatnam,2102579
+2024,March,individual,Online Fraud,Rajasthan,Jaipur,10279295
+2024,March,owasps,Cross-Site Scripting (XSS),Maharashtra,Mumbai,2874319
+2024,March,tcp ip attacks,DDoS,Jammu and Kashmir,Srinagar,4033399
+2024,March,owasps,Security Misconfiguration,Arunachal Pradesh,Itanagar,2309963
+2024,May,owasps,Broken Authentication,Maharashtra,Mumbai,210812
+2024,May,individual,Cyber Bullying,Arunachal Pradesh,Itanagar,1111118
+2024,May,owasps,Cross-Site Scripting (XSS),Kerala,Thiruvananthapuram,1324624
+2024,May,organizational,BEC,Goa,Panaji,8404444
+2024,May,owasps,Broken Authentication,Goa,Panaji,425854
+2024,May,individual,Cyber Bullying,Jharkhand,Ranchi,6476395
+2024,May,owasps,Cross-Site Scripting (XSS),Rajasthan,Jaipur,766385
+2024,May,owasps,Security Misconfiguration,Himachal Pradesh,Shimla,4021906
+2024,November,organizational,Whaling,Mizoram,Aizawl,255811
+2024,November,organizational,Supply Chain Attack,Ladakh,Leh,4139647
+2024,November,tcp ip attacks,DDoS,Karnataka,Bangalore,4020605
+2024,November,owasps,SQL Injection,Himachal Pradesh,Shimla,282857
+2024,November,individual,Cyber Bullying,Assam,Guwahati,791469
+2024,November,tcp ip attacks,SYN Flood,Dadra and Nagar Haveli and Daman and Diu,Daman,1133416
+2024,November,organizational,APT,Chhattisgarh,Raipur,10472242
+2024,November,owasps,SQL Injection,Kerala,Thiruvananthapuram,2163720
+2024,November,tcp ip attacks,DDoS,Ladakh,Leh,3516001
+2024,November,individual,Identity Theft,Telangana,Hyderabad,6949472
+2024,November,owasps,Security Misconfiguration,Sikkim,Gangtok,681834
+2024,October,owasps,Cross-Site Scripting (XSS),Ladakh,Leh,370330
+2024,October,organizational,Insider Threat,Mizoram,Aizawl,10355104
+2024,October,organizational,BEC,Goa,Panaji,391147
+2024,September,tcp ip attacks,SYN Flood,Sikkim,Gangtok,1628098
+2024,September,tcp ip attacks,Man-in-the-Middle,Mizoram,Aizawl,1127294
+2024,September,individual,Malware,Mizoram,Aizawl,2322591
+2024,September,organizational,APT,Ladakh,Leh,1046086
+2024,September,organizational,Data Exfiltration,Maharashtra,Mumbai,8794208
+2024,September,organizational,Data Exfiltration,Nagaland,Kohima,888738
+2024,September,individual,Ransomware,Mizoram,Aizawl,2769856
+2024,September,owasps,Security Misconfiguration,Andaman and Nicobar Islands,Port Blair,1517504
+2024,September,tcp ip attacks,DDoS,Sikkim,Gangtok,1285755
+2024,September,individual,Malware,Uttar Pradesh,Lucknow,19610088
+2025,April,owasps,Broken Authentication,Lakshadweep,Kavaratti,8090604
+2025,April,owasps,SQL Injection,Andaman and Nicobar Islands,Port Blair,3647908
+2025,April,organizational,Whaling,Haryana,Gurgaon,1033081
+2025,April,tcp ip attacks,ARP Poisoning,Kerala,Thiruvananthapuram,1164927
+2025,April,tcp ip attacks,ARP Poisoning,Mizoram,Aizawl,2698555
+2025,April,tcp ip attacks,SYN Flood,Sikkim,Gangtok,4846779
+2025,April,owasps,Broken Authentication,Uttar Pradesh,Lucknow,2034929
+2025,August,tcp ip attacks,SYN Flood,Tripura,Agartala,12597347
+2025,August,organizational,Whaling,Odisha,Bhubaneswar,7017787
+2025,August,individual,Ransomware,Tamil Nadu,Chennai,6037011
+2025,August,organizational,Insider Threat,Lakshadweep,Kavaratti,2427519
+2025,August,tcp ip attacks,DNS Spoofing,Uttar Pradesh,Lucknow,7134329
+2025,August,owasps,Security Misconfiguration,Chandigarh,Chandigarh,5345798
+2025,August,tcp ip attacks,DNS Spoofing,Assam,Guwahati,3377983
+2025,August,owasps,Security Misconfiguration,Manipur,Imphal,1721799
+2025,August,individual,Online Fraud,Uttarakhand,Dehradun,801156
+2025,August,individual,Malware,West Bengal,Kolkata,6287274
+2025,August,owasps,Cross-Site Scripting (XSS),Nagaland,Kohima,6195897
+2025,August,individual,Online Fraud,West Bengal,Kolkata,1543383
+2025,August,individual,Online Fraud,Tripura,Agartala,9088771
+2025,August,organizational,Supply Chain Attack,Mizoram,Aizawl,2650757
+2025,December,individual,Identity Theft,Odisha,Bhubaneswar,981961
+2025,December,tcp ip attacks,DDoS,Himachal Pradesh,Shimla,3577003
+2025,December,individual,Phishing,Chhattisgarh,Raipur,1065594
+2025,December,organizational,Whaling,Arunachal Pradesh,Itanagar,8875676
+2025,December,individual,Malware,Telangana,Hyderabad,134273
+2025,December,owasps,SQL Injection,Manipur,Imphal,9612585
+2025,December,individual,Ransomware,Sikkim,Gangtok,5974306
+2025,December,tcp ip attacks,SYN Flood,Puducherry,Puducherry,2298407
+2025,December,organizational,BEC,Telangana,Hyderabad,710799
+2025,December,owasps,SQL Injection,Jammu and Kashmir,Srinagar,3325784
+2025,February,individual,Malware,Assam,Guwahati,1535567
+2025,February,organizational,Whaling,Jammu and Kashmir,Srinagar,73057
+2025,February,organizational,Supply Chain Attack,Tripura,Agartala,1526891
+2025,February,tcp ip attacks,DNS Spoofing,Tripura,Agartala,8887914
+2025,February,individual,Identity Theft,Goa,Panaji,790329
+2025,February,owasps,SQL Injection,Delhi,New Delhi,3948494
+2025,February,individual,Online Fraud,Maharashtra,Mumbai,759039
+2025,February,tcp ip attacks,DDoS,Bihar,Patna,4463127
+2025,February,organizational,APT,Manipur,Imphal,1357675
+2025,February,tcp ip attacks,ARP Poisoning,Gujarat,Ahmedabad,6960499
+2025,February,owasps,Security Misconfiguration,Dadra and Nagar Haveli and Daman and Diu,Daman,9273537
+2025,February,owasps,Cross-Site Scripting (XSS),Uttar Pradesh,Lucknow,951112
+2025,February,owasps,Cross-Site Scripting (XSS),Manipur,Imphal,13934550
+2025,January,individual,Malware,Tripura,Agartala,345572
+2025,January,individual,Cyber Bullying,Tamil Nadu,Chennai,148370
+2025,January,individual,Cyber Bullying,Assam,Guwahati,4593305
+2025,January,tcp ip attacks,SYN Flood,Telangana,Hyderabad,263289
+2025,January,organizational,APT,Goa,Panaji,5213163
+2025,January,owasps,SQL Injection,Manipur,Imphal,1211132
+2025,January,organizational,Supply Chain Attack,Punjab,Ludhiana,3037136
+2025,January,individual,Ransomware,Haryana,Gurgaon,249657
+2025,January,organizational,BEC,Jharkhand,Ranchi,10738276
+2025,January,owasps,SQL Injection,Madhya Pradesh,Indore,1905492
+2025,July,owasps,Security Misconfiguration,Kerala,Thiruvananthapuram,1188677
+2025,July,tcp ip attacks,Man-in-the-Middle,Mizoram,Aizawl,5284674
+2025,July,organizational,Supply Chain Attack,Manipur,Imphal,1787579
+2025,July,individual,Ransomware,Madhya Pradesh,Indore,2890726
+2025,July,individual,Phishing,Punjab,Ludhiana,3711094
+2025,July,tcp ip attacks,DNS Spoofing,Himachal Pradesh,Shimla,9009140
+2025,July,owasps,Security Misconfiguration,Dadra and Nagar Haveli and Daman and Diu,Daman,265422
+2025,June,individual,Ransomware,Haryana,Gurgaon,405421
+2025,June,tcp ip attacks,Man-in-the-Middle,Jharkhand,Ranchi,975583
+2025,June,organizational,Whaling,Madhya Pradesh,Indore,1374255
+2025,June,individual,Malware,Gujarat,Ahmedabad,802960
+2025,June,owasps,Broken Authentication,Odisha,Bhubaneswar,1132734
+2025,June,organizational,Insider Threat,Bihar,Patna,1795450
+2025,June,owasps,Cross-Site Scripting (XSS),Andhra Pradesh,Visakhapatnam,109281
+2025,June,owasps,SQL Injection,Sikkim,Gangtok,2387384
+2025,June,tcp ip attacks,SYN Flood,Haryana,Gurgaon,2813304
+2025,June,organizational,Insider Threat,Sikkim,Gangtok,2396485
+2025,March,owasps,Cross-Site Scripting (XSS),Chandigarh,Chandigarh,2338144
+2025,March,owasps,SQL Injection,Andaman and Nicobar Islands,Port Blair,5338593
+2025,March,organizational,BEC,Assam,Guwahati,6668517
+2025,March,owasps,Broken Authentication,Karnataka,Bangalore,230715
+2025,March,owasps,Security Misconfiguration,Mizoram,Aizawl,5126370
+2025,March,organizational,Insider Threat,Tripura,Agartala,3468810
+2025,March,owasps,Broken Authentication,Punjab,Ludhiana,1180624
+2025,May,owasps,Broken Authentication,Sikkim,Gangtok,32457
+2025,May,individual,Malware,Gujarat,Ahmedabad,3404999
+2025,May,organizational,Insider Threat,Meghalaya,Shillong,1821003
+2025,May,individual,Phishing,Manipur,Imphal,70195
+2025,May,owasps,Broken Authentication,Chhattisgarh,Raipur,1985788
+2025,May,tcp ip attacks,DDoS,Ladakh,Leh,3569764
+2025,May,tcp ip attacks,Man-in-the-Middle,Karnataka,Bangalore,1100114
+2025,May,owasps,Broken Authentication,Punjab,Ludhiana,3194188
+2025,May,tcp ip attacks,SYN Flood,Haryana,Gurgaon,2210286
+2025,May,organizational,APT,Arunachal Pradesh,Itanagar,4972571
+2025,November,owasps,SQL Injection,Mizoram,Aizawl,2677669
+2025,November,tcp ip attacks,SYN Flood,Goa,Panaji,1277268
+2025,November,organizational,BEC,Chhattisgarh,Raipur,1495614
+2025,November,tcp ip attacks,ARP Poisoning,Madhya Pradesh,Indore,2739531
+2025,November,organizational,BEC,Mizoram,Aizawl,3361600
+2025,November,owasps,Broken Authentication,Jammu and Kashmir,Srinagar,3187953
+2025,November,owasps,Broken Authentication,Delhi,New Delhi,902449
+2025,November,individual,Identity Theft,Tripura,Agartala,1195790
+2025,October,tcp ip attacks,Man-in-the-Middle,Uttar Pradesh,Lucknow,186656
+2025,October,owasps,Broken Authentication,Mizoram,Aizawl,14994239
+2025,October,tcp ip attacks,SYN Flood,Arunachal Pradesh,Itanagar,5835666
+2025,October,owasps,Broken Authentication,Ladakh,Leh,1984842
+2025,October,organizational,Data Exfiltration,Assam,Guwahati,5302037
+2025,October,owasps,Cross-Site Scripting (XSS),Lakshadweep,Kavaratti,4348284
+2025,October,tcp ip attacks,Man-in-the-Middle,Dadra and Nagar Haveli and Daman and Diu,Daman,735913
+2025,October,tcp ip attacks,ARP Poisoning,Delhi,New Delhi,1382736
+2025,October,owasps,Broken Authentication,Delhi,New Delhi,4542192
+2025,October,owasps,Cross-Site Scripting (XSS),Ladakh,Leh,646384
+2025,September,tcp ip attacks,SYN Flood,Kerala,Thiruvananthapuram,5152311
+2025,September,owasps,SQL Injection,Jharkhand,Ranchi,8434833
+2025,September,organizational,Insider Threat,Telangana,Hyderabad,1569790
+2025,September,individual,Phishing,Uttar Pradesh,Lucknow,8509712
+2025,September,organizational,Data Exfiltration,Himachal Pradesh,Shimla,6593632
+2025,September,individual,Ransomware,Assam,Guwahati,5839902
+2025,September,tcp ip attacks,SYN Flood,Puducherry,Puducherry,1647267
+2025,September,tcp ip attacks,ARP Poisoning,Manipur,Imphal,3093539
+2025,September,tcp ip attacks,SYN Flood,Chhattisgarh,Raipur,13681007
+2025,September,owasps,Broken Authentication,Chandigarh,Chandigarh,1170712
